@@ -97,8 +97,6 @@ adaptive_edge_ai/
 
 ## 📈 Results
 
-![Performance Comparison](https://raw.githubusercontent.com/msadeqsirjani/adaptive_edge_ai/main/docs/images/performance.png)
-
 Our compressed models achieve:
 - 📉 90% size reduction
 - ⚡ 20x faster inference
