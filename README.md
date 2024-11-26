@@ -1,6 +1,6 @@
 # Adaptive Edge AI 🤖
 
-![Edge AI Banner](https://raw.githubusercontent.com/msadeqsirjani/adaptive_edge_ai/main/docs/images/banner.png)
+![Edge AI Banner](https://github.com/msadeqsirjani/adaptive_edge_ai/blob/master/docs/images/banner.png)
 
 ## 📋 Overview
 
